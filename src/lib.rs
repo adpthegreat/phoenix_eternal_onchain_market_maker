@@ -8,6 +8,7 @@ mod params;
 mod quote;
 mod state;
 mod update_quotes;
+pub mod withdraw_queue;
 
 use params::{InitializeParams, UpdateQuotesParams};
 
